@@ -20,6 +20,9 @@ public class ComIniSes extends javax.swing.JFrame {
     {
         initComponents();
         txtUsr.setText(getUsuario());
+        //se agrego la misma variable.
+        txtUsr.setText(getUsuario());
+
     }
 
     /**
